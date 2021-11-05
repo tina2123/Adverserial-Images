@@ -1,0 +1,63 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled2.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMni9NtyDfXbWXXG0DuL2ym",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/tina2123/Adverserial-Images/blob/main/exercise2\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "5KkvsJhTXhZ5"
+      },
+      "source": [
+        "\\[ \n",
+        "f=\\int_0^t A d\\tau =\\rint_0^t A d\\tau\n",
+        "\\]\n",
+        "\\centering\n",
+        "\\(\n",
+        "f=\\int_0^t A d\\tau =\\rint_0^t A d\\tau\n",
+        "\\)\\par\n",
+        "\\(\n",
+        "\\scriptstyle f=\\int A d\\tau =\\rint A d\\tau\n",
+        "\\)\\par\n",
+        "\\(\n",
+        "\\scriptscriptstyle f=\\int A d\\tau =\\rint A d\\tau\n",
+        "\\)"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "kFq9uCsyYLlI"
+      },
+      "source": [
+        " ∫"
+      ]
+    }
+  ]
+}
